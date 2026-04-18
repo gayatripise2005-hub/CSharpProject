@@ -1,6 +1,0 @@
-@BankManagementAPlDemo_HostAddress = http://localhost:5157
-
-GET {{BankManagementAPlDemo_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
