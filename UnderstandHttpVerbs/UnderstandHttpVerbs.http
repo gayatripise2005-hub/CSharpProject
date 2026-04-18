@@ -1,0 +1,6 @@
+@UnderstandHttpVerbs_HostAddress = http://localhost:5261
+
+GET {{UnderstandHttpVerbs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
